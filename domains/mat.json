@@ -3,6 +3,7 @@
         "username": "MAT-services"
     },
     "records": {
-        "CNAME": "Mat-services.github.io"
+        "CNAME": "Mat-services.github.io",
+        "email": "mat.concact@gmail.com"
     }
 }
